@@ -6,7 +6,7 @@ import styled, { keyframes } from 'styled-components';
 
 export default function TextAnimation() {
 
-    const letterArray = "Shin-Chan".split("");
+    const letterArray = " Shin-Chan".split("");
 
     return (
         <Wrapper>
