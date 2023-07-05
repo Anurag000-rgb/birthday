@@ -19,7 +19,7 @@ export default function Home() {
             <Content>
                 <CTA>
 
-                    <Description>Happy Birthday<TextAnimation /> </Description><Symbol>🖤</Symbol>
+                    <Description>Happy Birthday <TextAnimation /> </Description><Symbol>🖤</Symbol>
 
                 </CTA>
                 <BgImage />
